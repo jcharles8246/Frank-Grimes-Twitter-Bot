@@ -1,0 +1,9 @@
+{
+  "name": "Twitter Bot",
+  "description": "The Frank Grimes Twitter Bot",
+  "image": "heroku/python",
+  "repository": "https://github.com/jcharles8246/Twitter-Bot",
+  "keywords": ["python", "tweepy", "twitter", "frankgrimes", "AI" ],
+  "logo": "https://pbs.twimg.com/profile_images/438594921071509504/ATSSGFhQ_400x400.png",
+  "addons": [ "heroku-postgresql", "heroku-scheduler" ]
+}
