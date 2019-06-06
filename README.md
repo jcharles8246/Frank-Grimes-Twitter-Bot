@@ -21,16 +21,11 @@ Note the twitter bot has not been maintained for some time so issues may exist.
 * Run twitterbot.py and the bot will walk through one "session"
 * Designed to be run on Heroku with the Heroku Scheduler add-on (I personally used a daily schedule, but code can be changed to work for any time interval).
 
-## Contributors
-
-- https://github.com/jcharles8246
-- https://github.com/twilightspectre
-
 ## License
 
 MIT License
 
-Copyright (c) 2017 Jonathan Charles
+Copyright (c) 2019 Jonathan Charles
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
